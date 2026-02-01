@@ -29,21 +29,22 @@ This repo is designed to build a strong foundation in Python with clear examples
 
 ---
 
-## 📂 Repository Structure
 
 ```
 
 python/
-├── basics/
-├── control_statements/
-├── functions/
-├── data_structures/
-├── file_handling/
-├── oop/
-├── mini_projects/
+├── Topic_Name/
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── prob1/
+│   │   └── prob2/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
 └── README.md
 
-````
+```
+
 
 ---
 
@@ -77,8 +78,4 @@ Feel free to fork this repository and improve it.
 ## ⭐ Support
 
 If you find this repository helpful, don’t forget to star ⭐ it!
-
-
-
 Just say the word 😄
-```
