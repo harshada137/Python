@@ -1,0 +1,118 @@
+🐍 Python Repository Structure
+│
+├── 01_Introduction
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── prob1/
+│   │   └── prob2/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
+│
+├── 02_Python_Basics
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── prob1/
+│   │   └── prob2/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
+│
+├── 03_Control_Flow
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── prob1/
+│   │   └── prob2/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
+│
+├── 04_Data_Structures
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── Lists/
+│   │   ├── Tuples/
+│   │   ├── Sets/
+│   │   └── Dictionaries/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
+│
+├── 05_Strings
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── prob1/
+│   │   └── prob2/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
+│
+├── 06_Functions
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── prob1/
+│   │   └── prob2/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
+│
+├── 07_Modules_and_Packages
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── prob1/
+│   │   └── prob2/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
+│
+├── 08_File_Handling
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── prob1/
+│   │   └── prob2/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
+│
+├── 09_Exception_Handling
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── prob1/
+│   │   └── prob2/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
+│
+├── 10_OOP
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── Classes/
+│   │   ├── Inheritance/
+│   │   └── Polymorphism/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
+│
+├── 11_Advanced_Python
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── Comprehensions/
+│   │   ├── Generators/
+│   │   └── Decorators/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
+│
+├── 12_Automation
+│   ├── Notes/
+│   ├── Problem_Questions_with_Solutions/
+│   │   ├── File_Automation/
+│   │   └── OS_Scripts/
+│   ├── README.md
+│   ├── Interview_Questions.md
+│   └── Practice_Problems.md
+│
+└── 13_Projects
+    ├── Mini_Projects/
+    ├── Final_Project/
+    └── README.md
