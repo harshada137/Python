@@ -262,3 +262,65 @@ if marks >= 75:
 | `elif`    | Multiple conditions in sequence | Checks in order, first True block executes, rest skipped |
 
 
+
+---
+
+## **Visual Flow:**
+
+
+```
+Start
+  |
+  v
+Check `if temperature > 35`
+  |---True--> Print "Extremely hot!" --> END
+  |
+  v
+Check `elif temperature > 25 and humidity > 70`
+  |---True--> Print "Hot and humid." --> END
+  |
+  v
+Check `elif temperature > 25`
+  |---True--> Print "Warm." --> END
+  |
+  v
+Else
+  |--> Print "Cool." --> END
+```
+
+---
+
+### **How to read this diagram:**
+
+1. Python **starts at the top**.
+2. Each condition is checked **one by one**.
+3. **First True condition runs its block**, then Python **skips the rest**.
+4. If none of the conditions are True, **the `else` block runs**.
+
+---
+
+### **Mini Python Example Linked to Diagram**
+
+```python
+temperature = 28
+humidity = 80
+
+if temperature > 35:
+    print("Extremely hot!")
+elif temperature > 25 and humidity > 70:
+    print("Hot and humid.")
+elif temperature > 25:
+    print("Warm.")
+else:
+    print("Cool.")
+```
+
+**Output:**
+
+```
+Hot and humid.
+```
+
+
+
+
