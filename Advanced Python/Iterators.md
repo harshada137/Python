@@ -7,7 +7,7 @@ An iterator is an object that allows you to traverse through the elements of a c
 Python automatically uses iterators in loops such as `for`.
 
 An iterator remembers its current position and returns the next element whenever requested.
-
+ 
 ---
 
 ## How Iterators Work
