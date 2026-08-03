@@ -32,4 +32,4 @@ except ValueError:
     print("Invalid input.")
 ```
 
-This folder contains concise notes and examples covering Python exception handling concepts.
+> This folder contains concise notes and examples covering Python exception handling concepts.
